@@ -1,6 +1,8 @@
 # gocalisma
 
 Merhaba Go(Lang) diline yeni başlayanlar için farklı kaynaklardan toplayarak bir çatı altına getirdiğim kitabımı indirip inceleyebilirsiniz.
+
+
 Hello, you can download and review my book, which I have gathered from different sources for beginners in Go(Lang) language.
 
 ![image](https://user-images.githubusercontent.com/119099923/207533950-ca19c9ab-d4dc-46ff-8e79-bff63c7dec71.png)
